@@ -1,0 +1,7 @@
+c:\users\w500\source\repos\MenuTest\MenuTest\bin\Debug\MenuTest.exe.config
+c:\users\w500\source\repos\MenuTest\MenuTest\bin\Debug\MenuTest.exe
+c:\users\w500\source\repos\MenuTest\MenuTest\bin\Debug\MenuTest.pdb
+c:\users\w500\source\repos\MenuTest\MenuTest\obj\Debug\MenuTest.csprojResolveAssemblyReference.cache
+c:\users\w500\source\repos\MenuTest\MenuTest\obj\Debug\MenuTest.csproj.CoreCompileInputs.cache
+c:\users\w500\source\repos\MenuTest\MenuTest\obj\Debug\MenuTest.exe
+c:\users\w500\source\repos\MenuTest\MenuTest\obj\Debug\MenuTest.pdb
