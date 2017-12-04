@@ -8,7 +8,7 @@ namespace MenuTest
 {
 	class Menu
 	{
-		public static void Menustart()
+		public static void MainMenu()
 		{
 			Console.WriteLine("Vælg \n" +
 				"1. Udlån\n" +
@@ -20,7 +20,7 @@ namespace MenuTest
 				"\n"+
 				"\n"+
 				"\n"+
-				"9. Afslut");
+				"0. Afslut");
 
 			string input = Console.ReadLine();
 
@@ -29,7 +29,16 @@ namespace MenuTest
 					HomeMenu();
 					break;
 				case "2":
+
 					break;
+				case "3":
+
+					break;
+				case "4":
+
+					break;
+				case "0":
+					Environment.Exit();
 
 
 
